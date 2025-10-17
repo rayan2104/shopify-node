@@ -10,8 +10,8 @@ I also did make a video going over the entire repo.
 
 ## Supporting repositories
 
-- [`@kinngh/shopify-nextjs-prisma-app`](https://github.com/kinngh/shopify-nextjs-prisma-app): A Shopify app boilerplate built with Next.js and Prisma ORM, with deployments available on Vercel.
-- [`@kinngh/shopify-polaris-playground`](https://github.com/kinngh/shopify-polaris-playground): Build your app's UI using Polaris, without an internet connection.
+- [`@rayan2104/shopify-nextjs-prisma-app`](https://github.com/rayan2104/shopify-nextjs-prisma-app): A Shopify app boilerplate built with Next.js and Prisma ORM, with deployments available on Vercel.
+- [`@rayan2104/shopify-polaris-playground`](https://github.com/rayan2104/shopify-polaris-playground): Build your app's UI using Polaris, without an internet connection.
 
 ## Tech Stack
 
